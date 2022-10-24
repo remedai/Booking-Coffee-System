@@ -1,0 +1,52 @@
+
+img{
+border-radius:10px ;
+-webkit-box-shadw:-1px 3px 12px -3px rgba(0,0,0,0.75);
+-moz-box-shadow:-1px 3px 12px -3px rgba(0,0,0,0.75);
+box-shadow: -1px 3px 12px -3px rgba(0,0,0,0.75);
+}
+.p1{
+font-weight: lighter;
+color:gray;
+font-size:21px
+}
+p{
+font-weight: lighter;
+color: gray;
+
+}
+.card{
+  border-radius:10px ;
+-webkit-box-shadw:-1px 3px 12px -3px rgba(0,0,0,0.75);
+-moz-box-shadow:-1px 3px 12px -3px rgba(0,0,0,0.75);
+box-shadow: -1px 3px 12px -3px rgba(0,0,0,0.75);
+}
+.card:hover{
+  background-color: rgb(179, 243, 222);
+  transition: 0.5s ease;
+
+}
+small{
+font-weight: bold;
+color:gray;
+
+}
+.fa-facebook{
+  color: blue;
+  font-size: 21px;
+}
+.fa-twitter{
+  color: rgba(14,230,250);
+  font-size: 21px;
+  padding: 0 10px;
+}
+.fa-pinterest{
+  color: red;
+  font-size: 21px;
+}
+.fa-linkedin{
+  color: blue;
+  font-size: 21px;
+  padding: 0 10px;
+}
+  
